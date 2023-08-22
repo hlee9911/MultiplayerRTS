@@ -4,6 +4,8 @@ A Gamedev.tv 4-players Free For All RTS game created in Unity and Mirror.
 
 Place buildings to gain resources and produce units. Controls units to fight against enemy and ultimately defeat your enemies to win.
 
+Builds available at here: [link](https://drive.google.com/drive/folders/1RJvu4N2wnsUqqrMoWh2mFDhMsIgDro9M?usp=sharing)
+
 ## Gameplay Manual
 
 ### To Start
